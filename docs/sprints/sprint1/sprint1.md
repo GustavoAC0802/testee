@@ -36,7 +36,7 @@ Entregar a primeira versão funcional do sistema com foco em back-end (modelagem
 
 ## 🎨 Design da Sprint
 
-![Design Sprint 1](sprint1.png)
+![Design Sprint 1](mockup-V1.png)
 
 ---
 
