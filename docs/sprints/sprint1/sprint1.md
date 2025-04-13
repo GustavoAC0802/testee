@@ -36,18 +36,18 @@ Entregar a primeira versão funcional do sistema com foco em back-end (modelagem
 
 ## 🎨 Design da Sprint
 
-![Design Sprint 1](./docs/sprints/sprint1.png)
+![Design Sprint 1](sprint1.png)
 
 ---
 
 ## 📊 Burndown Chart
 
-![Burndown Sprint 1](./docs/sprints/burndown-sprint1.png)
+![Burndown Sprint 1](burndown-sprint1.png)
 
 ---
 
 ## 📎 Documentos da Sprint
 
-- [📄 Sprint Backlog – Sprint 1](./docs/sprints/Sprint%20Backlog%20(1).pdf)  
+- [📄 Sprint Backlog – Sprint 1](Sprint%20Backlog%20(1).pdf)  
 - [📄 Product Backlog – Sprint 1](Product%20Backlog%20Sprint%201.pdf)  
 
