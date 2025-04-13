@@ -42,7 +42,7 @@ Entregar a primeira versão funcional do sistema com foco em back-end (modelagem
 
 ## 📊 Burndown Chart
 
-![Burndown Sprint 1](burndown-sprint1.png)
+![Burndown Sprint 1](burndown-sprint1.jpg)
 
 ---
 
